@@ -23,7 +23,7 @@ class Label {
 }
 
 class StreamSource {
-    var id: Int? =  0
-    var port: Int? =  5555
-    var queueSize: Int? =  5
+    var id: Int =  0
+    var port: Int =  5555
+    var queueSize: Int =  5
 }
